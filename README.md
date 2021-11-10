@@ -6,9 +6,9 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=devkyles&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide=contribs&hide_border=true)](https://github.com/devkyles)
 
 
-[![Top Languages](https://github-readme-stats.ecarlson94.vercel.app/api/top-langs/?username=DevKyleS&layout=compact&hide_border=true&hide_title=true)](https://github.com/devkyles)
+[![Top Languages](https://github-readme-stats.ecarlson94.vercel.app/api/top-langs/?username=DevKyleS&layout=compact&hide_border=true&hide_title=true&count_private=true)](https://github.com/devkyles)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkyles&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=devkyles&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/devkyles)
 
 
 ## Languages
