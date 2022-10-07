@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devkylesessions)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3SHINdL)
 
 ## Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=devkyles&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide=contribs&hide_border=true)](https://github.com/devkyles)
