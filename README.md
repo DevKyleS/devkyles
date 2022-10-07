@@ -8,7 +8,7 @@
 
 [![Top Languages](https://github-readme-stats.ecarlson94.vercel.app/api/top-langs/?username=DevKyleS&layout=compact&hide_border=true&hide_title=true&count_private=true)](https://github.com/devkyles)
 
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=devkyles&langs_count=10&layout=compact&hide=css,html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/devkyles)
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=devkyles&count_private=true&langs_count=10&layout=compact&hide=css,html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/devkyles)
 
 
 ## Languages
