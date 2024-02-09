@@ -3,11 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3SHINdL)
 
 ## Stats
-[![Stats](https://github-readme-stats-three-topaz-16.vercel.app/api?username=devkyles&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide=contribs&hide_border=true)](https://github.com/devkyles)
+[![Stats](https://github-readme-stats-three-topaz-16.vercel.app/api?username=devkyles&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/devkyles)
 
-[![Top Languages](https://github-readme-stats-three-topaz-16.vercel.app/api/top-langs/?username=DevKyleS&layout=compact&hide_border=true&hide_title=true&count_private=true)](https://github.com/devkyles)
-
-[![Top Langs](https://github-readme-stats-three-topaz-16.vercel.app/api/top-langs/?username=devkyles&count_private=true&langs_count=10&layout=compact&hide=css,html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/devkyles)
+[![Top Langs](https://github-readme-stats-three-topaz-16.vercel.app/api/top-langs/?username=devkyles&count_private=true&langs_count=10&include_all_commits=true&layout=compact&hide=css,html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/devkyles)
 
 
 ## Languages
