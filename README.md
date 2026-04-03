@@ -4,7 +4,7 @@
 
 Building secure, reliable platforms and maturing engineering organizations through infrastructure automation, compliance-driven SDLC practices, and data-informed decision making.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3O302co)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://dub.sh/VBVcgcC)
 
 ---
 
